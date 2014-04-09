@@ -1,4 +1,4 @@
 personalWork
 ============
 
-/* Contains basic projects related to C#. */
+/* Please open the scheme folder and check for the related work */
